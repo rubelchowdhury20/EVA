@@ -1,4 +1,4 @@
-# EVA Pahse 2 : Word Embedding#
+# EVA Pahse 2(session 1) : Word Embedding
 
 Word embedding is a process of vectorizing the tokens from a text dataset. Embeding layer takes tokens converted into integers as input & outputs an associated vector.
 
